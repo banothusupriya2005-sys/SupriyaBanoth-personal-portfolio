@@ -53,113 +53,121 @@ portfolio/
     ├── TechTrek-2025.jpg
     └── AI-Quiz-Campus-Crew.jpg
 
-💼 Internship Experience
-Full Stack Development Internship
+## 💼 Internship Experience
 
-Thiranex
+### Full Stack Development Internship
 
-Domain: Full Stack Development
-Duration: 29 June 2026 – 28 July 2026
-Certificate ID: THX-JUN226-598
-Python Programming Internship
+**Thiranex**
 
-Kodbud Solutions
+- **Domain:** Full Stack Development
+- **Duration:** 29 June 2026 – 28 July 2026
+- **Certificate ID:** THX-JUN226-598
 
-Domain: Python Programming
-Duration: 04 June 2026 – 04 July 2026
-Certificate ID: KDC251339
-🏆 Certifications
-TechTrek-2025 Quiz Quest
-AI Quiz - Campus Crew
+### Python Programming Internship
 
-Certificate documents are available through the portfolio's Certificates section.
+**Kodbud Solutions**
 
-🚀 Projects
-🤖 AMECA – AI Agent
+- **Domain:** Python Programming
+- **Duration:** 04 June 2026 – 04 July 2026
+- **Certificate ID:** KDC251339
+
+---
+
+## 🏆 Certifications
+
+- **TechTrek-2025 Quiz Quest**
+- **AI Quiz - Campus Crew**
+
+Certificate documents are available through the portfolio's **Certificates** section.
+
+---
+
+## 🚀 Projects
+
+### 🤖 AMECA – AI Agent
 
 An AI-based project focused on intelligent interaction and automation.
 
-📄 Online Resume Builder
+### 📄 Online Resume Builder
 
 A web application for creating and generating professional resumes.
 
-🛡️ Fraud Detection Using GNN
+### 🛡️ Fraud Detection Using GNN
 
 A machine learning project focused on detecting fraudulent patterns using Graph Neural Networks.
 
-🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-A responsive personal portfolio website developed using HTML, CSS and JavaScript.
+A responsive personal portfolio website developed using HTML, CSS, and JavaScript.
 
-🎓 Education
-B.Tech – Computer Science Engineering
+---
 
-DRK Institute of Science and Technology
+## 🎓 Education
 
-2024 – Present
-CGPA: 7.5
-Diploma
+### B.Tech – Computer Science Engineering
 
-Government Polytechnic for Women, Suryapet
+**DRK Institute of Science and Technology**
 
-CGPA: 8.79
-SSC
+- **Duration:** 2024 – Present
+- **CGPA:** 7.5
 
-KGBV Gudur
+### Diploma
 
-CGPA: 10
-🧠 Skills
-HTML
-CSS
-JavaScript
-Python
-AI/ML
-SQL
-Git & GitHub
-VS Code
-📱 Connect With Me
+**Government Polytechnic for Women, Suryapet**
 
-LinkedIn:
-https://www.linkedin.com/in/banothu-supriya-64a772283
+- **CGPA:** 8.79
 
-GitHub:
-https://github.com/banothusupriya2005-sys
+### SSC
 
-Email:
-banothusupriya2005@gmail.com
+**KGBV Gudur**
 
-🌟 Portfolio Highlights
+- **CGPA:** 10
+
+---
+
+## 🧠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- AI/ML
+- SQL
+- Git & GitHub
+- VS Code
+
+---
+
+## 📱 Connect With Me
+
+**LinkedIn:**  
+[Banoth Supriya](https://www.linkedin.com/in/banothu-supriya-64a772283)
+
+**GitHub:**  
+[banothusupriya2005-sys](https://github.com/banothusupriya2005-sys)
+
+**Email:**  
+[banothusupriya2005@gmail.com](mailto:banothusupriya2005@gmail.com)
+
+---
+
+## 🌟 Portfolio Highlights
 
 The portfolio provides a centralized place to explore:
 
-My technical skills
-Academic background
-Development projects
-Internship experience
-Certifications
-Resume
-Professional contact information
+- My technical skills
+- Academic background
+- Development projects
+- Internship experience
+- Certifications
+- Resume
+- Professional contact information
 
-💻 Run Locally
-Clone the repository:
+---
+
+## 💻 Run Locally
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/banothusupriya2005-sys/portfolio.git
-Open the project folder:
-cd portfolio
-Open index.html in your browser.
-
-For the best development experience, use Visual Studio Code with Live Server.
-
-📌 Future Improvements
-Add more projects
-Add additional certifications
-Add backend functionality to the contact form
-Add project live-demo links
-Improve accessibility
-Add more interactive animations
-👩‍💻 Author
-
-Supriya Banothu
-
-Computer Science Engineering Student | Software Developer | Web Developer | AI/ML Enthusiast
-
-⭐ If you like this portfolio, feel free to explore the repository and connect with me!
