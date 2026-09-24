@@ -1,45 +1,64 @@
 # 🌐 Supriya Banothu | Personal Portfolio
 
-A modern, responsive personal portfolio website showcasing my skills, education, projects, internships, certifications, and professional profile.
+Welcome to my personal portfolio website! 👋
 
-The website is designed to present my journey as a **Computer Science Engineering student, Software Developer, Web Developer, and AI/ML Enthusiast**.
+This portfolio showcases my **technical skills, education, projects, internship experience, certifications, and professional journey** as a Computer Science Engineering student.
+
+I am passionate about **Software Development, Web Development, Artificial Intelligence, and Machine Learning**, and I enjoy building practical solutions to real-world problems.
 
 ---
 
 ## ✨ Features
 
-- 🎨 Modern and responsive UI
-- 🌓 Dark/Light mode
-- 👩‍💻 Professional hero section
+- 🎨 Modern and responsive user interface
+- 📱 Mobile-friendly design
+- 👩‍💻 Professional introduction and profile section
 - 📖 About Me section
-- 🎓 Education details
-- 🛠️ Technical skills showcase
-- 💻 Projects portfolio
+- 🎓 Education section
+- 🧠 Technical Skills section
+- 💻 Projects showcase
 - 💼 Internship experience
 - 🏆 Certifications and achievements
 - 📄 Resume download
 - 📧 Contact section
 - 🔗 LinkedIn and GitHub integration
-- 📱 Mobile-friendly design
 - ✨ Smooth scrolling and animations
 - 📜 View internship and certificate documents
+- 🌙 Responsive design for different screen sizes
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Website structure
-- **CSS3** – Styling, layout and responsive design
-- **JavaScript** – Interactions and animations
-- **Font Awesome** – Icons
-- **Google Fonts** – Typography
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- Visual Studio Code
+
+### Programming & Database
+
+- Python
+- SQL
+
+### Other Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Web Development
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-portfolio/
+personal-portfolio/
 │
 ├── index.html
 ├── style.css
@@ -52,10 +71,13 @@ portfolio/
     ├── Kodbud-Python.jpg
     ├── TechTrek-2025.jpg
     └── AI-Quiz-Campus-Crew.jpg
+```
+
+---
 
 ## 💼 Internship Experience
 
-### Full Stack Development Internship
+### 💻 Full Stack Development Internship
 
 **Thiranex**
 
@@ -63,7 +85,11 @@ portfolio/
 - **Duration:** 29 June 2026 – 28 July 2026
 - **Certificate ID:** THX-JUN226-598
 
-### Python Programming Internship
+Completed an internship focused on Full Stack Development with practical exposure to web development concepts and technologies.
+
+---
+
+### 🐍 Python Programming Internship
 
 **Kodbud Solutions**
 
@@ -71,14 +97,21 @@ portfolio/
 - **Duration:** 04 June 2026 – 04 July 2026
 - **Certificate ID:** KDC251339
 
+Successfully completed a 4-week internship program focused on Python Programming with practical exposure to programming concepts and development tasks.
+
 ---
 
 ## 🏆 Certifications
 
-- **TechTrek-2025 Quiz Quest**
-- **AI Quiz - Campus Crew**
+### 📜 TechTrek-2025 Quiz Quest
 
-Certificate documents are available through the portfolio's **Certificates** section.
+Participated in the TechTrek-2025 Quiz Quest and received a certificate recognizing the achievement.
+
+### 🤖 AI Quiz - Campus Crew
+
+Received a certificate for participating in the AI Quiz organized through Campus Crew.
+
+Certificate documents can be viewed through the **Certificates** section of the portfolio.
 
 ---
 
@@ -88,36 +121,74 @@ Certificate documents are available through the portfolio's **Certificates** sec
 
 An AI-based project focused on intelligent interaction and automation.
 
+**Technologies / Area:**
+- Artificial Intelligence
+- Python
+- AI-based interaction
+
+---
+
 ### 📄 Online Resume Builder
 
-A web application for creating and generating professional resumes.
+A web application designed to help users create and generate professional resumes.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+
+---
 
 ### 🛡️ Fraud Detection Using GNN
 
-A machine learning project focused on detecting fraudulent patterns using Graph Neural Networks.
+A machine learning project focused on detecting fraudulent patterns using **Graph Neural Networks (GNN)**.
+
+**Area:**
+- Machine Learning
+- Graph Neural Networks
+- Fraud Detection
+
+---
 
 ### 🌐 Personal Portfolio
 
-A responsive personal portfolio website developed using HTML, CSS, and JavaScript.
+A responsive personal portfolio website created to showcase my:
+
+- Skills
+- Education
+- Projects
+- Internships
+- Certifications
+- Resume
+- Professional profile
+
+**Technologies:**
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
 ## 🎓 Education
 
-### B.Tech – Computer Science Engineering
+### 🎓 B.Tech – Computer Science Engineering
 
 **DRK Institute of Science and Technology**
 
 - **Duration:** 2024 – Present
 - **CGPA:** 7.5
 
-### Diploma
+---
+
+### 🎓 Diploma
 
 **Government Polytechnic for Women, Suryapet**
 
 - **CGPA:** 8.79
 
-### SSC
+---
+
+### 🎓 SSC
 
 **KGBV Gudur**
 
@@ -125,29 +196,61 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
+
+### 💻 Web Development
 
 - HTML
 - CSS
 - JavaScript
+
+### 🐍 Programming
+
 - Python
-- AI/ML
+
+### 🤖 AI & Machine Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Graph Neural Networks
+
+### 🗄️ Database
+
 - SQL
-- Git & GitHub
-- VS Code
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📄 Resume
+
+My resume is available in the portfolio website.
+
+**Resume File:**
+
+```text
+Supriya_Banothu_Resume.pdf
+```
 
 ---
 
 ## 📱 Connect With Me
 
-**LinkedIn:**  
-[Banoth Supriya](https://www.linkedin.com/in/banothu-supriya-64a772283)
+### LinkedIn
 
-**GitHub:**  
-[banothusupriya2005-sys](https://github.com/banothusupriya2005-sys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Banoth%20Supriya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/banothu-supriya-64a772283)
 
-**Email:**  
-[banothusupriya2005@gmail.com](mailto:banothusupriya2005@gmail.com)
+### GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-banothusupriya2005--sys-black?style=for-the-badge&logo=github)](https://github.com/banothusupriya2005-sys)
+
+### Email
+
+[![Email](https://img.shields.io/badge/Email-banothusupriya2005%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:banothusupriya2005@gmail.com)
 
 ---
 
@@ -155,19 +258,92 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 
 The portfolio provides a centralized place to explore:
 
-- My technical skills
-- Academic background
-- Development projects
-- Internship experience
-- Certifications
-- Resume
-- Professional contact information
+- 👩‍💻 My professional profile
+- 🧠 Technical skills
+- 🎓 Academic background
+- 💻 Development projects
+- 💼 Internship experience
+- 🏆 Certifications
+- 📄 Resume
+- 🔗 Professional profiles
+- 📧 Contact information
 
 ---
 
 ## 💻 Run Locally
 
+Follow these steps to run the portfolio on your local system.
+
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/banothusupriya2005-sys/portfolio.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd portfolio
+```
+
+### 3. Open the project
+
+Open `index.html` in your web browser.
+
+For development, you can use **Visual Studio Code with the Live Server extension**.
+
+---
+
+## 🚀 Deployment
+
+This portfolio can be deployed using platforms such as:
+
+- GitHub Pages
+- Netlify
+- Vercel
+
+The project is built using frontend technologies and does not require a backend server to display the portfolio.
+
+---
+
+## 📌 Future Improvements
+
+Planned improvements for the portfolio include:
+
+- ➕ Add more projects
+- 🏆 Add additional certifications
+- 💼 Add more internship experiences
+- 🔗 Add live project demo links
+- 📧 Connect the contact form to a backend/email service
+- ♿ Improve accessibility
+- ✨ Add more interactive animations
+- 📱 Further optimize mobile responsiveness
+- 🚀 Continuously update the portfolio with new achievements
+
+---
+
+## 👩‍💻 About Me
+
+**Supriya Banothu**
+
+Computer Science Engineering Student | Software Developer | Web Developer | AI/ML Enthusiast
+
+I am interested in developing innovative software solutions and continuously improving my technical knowledge through projects, internships, certifications, and hands-on learning.
+
+---
+
+## ⭐ Support
+
+If you find this portfolio interesting, feel free to:
+
+⭐ Star the repository  
+🔗 Connect with me on LinkedIn  
+💻 Explore my GitHub projects
+
+---
+
+## 📜 License
+
+This portfolio is created for personal and professional showcase purposes.
+
+© 2026 **Supriya Banothu**. All Rights Reserved.
